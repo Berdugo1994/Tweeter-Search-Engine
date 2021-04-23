@@ -1,0 +1,5 @@
+ERROR 2021-01-10 13:06:59,450: report_part_c.docx does not exist.
+INFO 2021-01-10 13:06:59,464: Successfully loaded benchmark labels data.
+INFO 2021-01-10 13:06:59,465: Successfully loaded queries data.
+INFO 2021-01-10 13:07:00,502: Successfully imported module search_engine_1.
+DEBUG 2021-01-10 13:07:03,316: Building the index in search_engine_1 for benchmark data took 2.7940642 seconds.
