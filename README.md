@@ -22,5 +22,6 @@ gensim.models, NumPy, Pandas, SciPy spatial, nltk, PorterStemmer, emoji etc.
  
 The quality of results tested against Benchmark DB, with MAP, Recall, precision, precision@5 Tests.
 
-![Tests] https://i.ibb.co/2dwMgcD/image.png
-![Routes] https://i.ibb.co/nQ4VjY9/image.png
+![Tests](https://i.ibb.co/2dwMgcD/image.png)
+
+![Routes](https://i.ibb.co/nQ4VjY9/image.png)
