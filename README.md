@@ -1,19 +1,19 @@
 # A Smart Tweeter Search Engine.
-Local Twitter Search engine including:
+* Local Twitter Search engine including:
 
-*Custom build Parser to collect data from Emojis Numbers, Countries, Entities and more.
+* Custom build Parser to collect data from Emojis Numbers, Countries, Entities and more.
 
-*Smart inverted index for creating posting files.
+* Smart inverted index for creating posting files.
 
-*Using 3 Main ALGORITHMS:
+# Using 3 Main ALGORITHMS:
 
-## GloVe: Global Vectors for Word Representation.
+* GloVe: Global Vectors for Word Representation.
 
-## W2V : Word2Vec technique for natural language processing. **
+* W2V : Word2Vec technique for natural language processing. 
 
-## WordNet : get information such as Synonyms, Hypernyms and Hyponyms. **
+* WordNet : get information such as Synonyms, Hypernyms and Hyponyms. 
 
-# Similarity: Cosine Similarity, TF-IDF, BM-25 and more.
+## Similarity: Cosine Similarity, TF-IDF, BM-25 and more.
 
 Also includes the following API's and libs:
 
