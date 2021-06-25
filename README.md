@@ -7,19 +7,19 @@ Local Twitter Search engine including:
 
 *Using 3 Main ALGORITHMS:
 
-** GloVe: Global Vectors for Word Representation. **
+## GloVe: Global Vectors for Word Representation.
 
-** W2V : Word2Vec technique for natural language processing. **
+## W2V : Word2Vec technique for natural language processing. **
 
-** WordNet : get information such as Synonyms, Hypernyms and Hyponyms. **
+## WordNet : get information such as Synonyms, Hypernyms and Hyponyms. **
 
-Similarity: CosSin Similarity, TF-IDF, BM-25 and more.
+# Similarity: Cosine Similarity, TF-IDF, BM-25 and more.
 
-Also includes the next API and Libraries:
+Also includes the following API's and libs:
 
 gensim.models, NumPy, Pandas, SciPy spatial, nltk, PorterStemmer, emoji etc.
 
-The quality of results tested against Benchmark DB, with MAP, Recall, precision, precision@5 Tests.
+The quality of results tested against Benchmark DB, with MAP, Recall, precision, precision@5 measurements.
 
 includes sample.parquet files.
 
